@@ -1,0 +1,12 @@
+# config.yaml
+project:
+  name: "SM Proteomics Analysis"
+  version: "1.0"
+
+datasets:
+  main: "./Protiens.xlsx"
+  categorized_dir: "./1- Protein with 70% presence/"
+  normalized_dir: "./2- VSN normalization/"
+  Imputed_dir: "./3- Imputed"
+  Merged_dir: "./4- Merged dataframes"
+  Significance_dir: "./5- Significance"
