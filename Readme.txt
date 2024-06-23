@@ -1,7 +1,7 @@
 Contact
 SHahan Syed
 PhD researcher, University of Helsinki
-Phne:      +358 405 524595
+Phone:      +358 405 524595
 LinkedIn:  www.linkedin.com/in/syed-shahan
 E-mail:    shahan.syed@helsinki.fi
 ORCID:     0000-0001-9861-6441
